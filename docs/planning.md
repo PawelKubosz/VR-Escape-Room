@@ -2,6 +2,14 @@ This document will serve as a template for an idea i had regarding how we can go
 
 - chapters
   - workflow
+    - design
+    - scrum
+    - sprints
   - standup
   - review
   - actual weekly plan
+
+
+- workflow
+
+  We can work using the 
