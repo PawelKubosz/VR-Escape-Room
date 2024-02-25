@@ -13,7 +13,9 @@ This document will serve as a template for an idea i had regarding how we can go
 - workflow
 
   - documentation
-    
+    - project plan: https://canvas.hu.nl/courses/39895/assignments/294412?module_item_id=1046090
+   
+      we are going to follow whatever is described within the project plan. We will use the same layout as we did for the front end project, where each chapter will have their own markdown file. The documentation itself will be an enabler story, with each part being a task on its own. They will be big tasks, but they should fit within the 4 hour task limit.
 
 
   - sprints
