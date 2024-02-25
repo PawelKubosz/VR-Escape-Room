@@ -75,14 +75,29 @@ This document will serve as a template for an idea i had regarding how we can go
 
 - weekly plan
 
-  | Day        | Tasks                   | Completed tasks                   |
-  |------------|-------------------------|-----------------------------------|
-  | Monday     | Standup(1)              | #23 #15 #66                       |
-  | Tuesday    |                         | #91 #67                           |
-  | Wednesday  |                         | #65                               |
-  | Thursday   | Standup(2)              | #23 #15 #66                       |
-  | Friday     | Weekly review           | #91 #67                           |
-  | Weekend    | working on tasks that have not been finished                   | #65                               |
+  normal planning:
+
+  | Day        | Tasks                   | 
+  |------------|-------------------------|
+  | Monday     | Standup(1)              | 
+  | Tuesday    |                         | 
+  | Wednesday  |                         | 
+  | Thursday   | Standup(2)              | 
+  | Friday     | Weekly review           | 
+  | Weekend    | working on tasks that have not been finished during the week                   
+
+   First week of the project (Sprint 0):
+
+  | Day        | Tasks                   | 
+  |------------|-------------------------|
+  | Monday     | Standup(1) FINETUNING THIS DOCUMENTATION + ROLES            | 
+  | Tuesday    | Standup(2) BEGIN DESIGN                         | 
+  | Wednesday  | Standup(3) BEGIN DOCUMENTATION                        | 
+  | Thursday   |                         | 
+  | Friday     | Weekly review           | 
+  | Weekend    | working on tasks that have not been finished during the week                  |
+
+  // Standup(1) always consists of dividing the tasks between all the members and the planning for the upcoming week
     
 
 
