@@ -13,8 +13,10 @@ This document will serve as a template for an idea i had regarding how we can go
 - workflow
 
   - design
-    
-    dddd
+
+    principles to follow: https://canvas.hu.nl/courses/39814/files/4315389?module_item_id=1049651
+
+    We will be making a project design based on the different strategies based in this book. This should currently be enough to get a basic idea of what we want to do, so we can later decide how we want to go about it and create tasks for everyone to work on. The design itself will also be an enabler story, with each of the different patterns being a task on their own.
 
   - documentation
     - project plan: https://canvas.hu.nl/courses/39895/assignments/294412?module_item_id=1046090
