@@ -12,6 +12,9 @@ This document will serve as a template for an idea i had regarding how we can go
 
 - workflow
 
+  - design
+    dddd
+
   - documentation
     - project plan: https://canvas.hu.nl/courses/39895/assignments/294412?module_item_id=1046090
    
