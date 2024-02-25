@@ -7,9 +7,9 @@ This document will serve as a template for an idea i had regarding how we can go
     - sprints
   - standup
   - review
-  - actual weekly plan
-  - log boek
+  - logboek
   - roles
+  - weekly plan
 
 
 - workflow
@@ -53,7 +53,7 @@ This document will serve as a template for an idea i had regarding how we can go
   <img width="223" alt="image" src="https://github.com/PawelKubosz/VR-Escape-Room/assets/114138468/b19e8b89-ec29-442f-b127-90534ef2ab11">
 
 
-- Log boek
+- Logboek
 
   Every single team member is going to have a markdown file where, every single week, they will update it with their own tasks. It will look the same as the ones we had for the KPN project, except in my opinion, it is not needed for us to also note down every single pull we have. We trust each other, so we can just put a cross behind each of the tasks that we have completed. We will use this template for each week:
   
@@ -62,6 +62,27 @@ This document will serve as a template for an idea i had regarding how we can go
   | 1      | #23 #15 #66             | #23 #15 #66                       |
   | 2      | #93 #98 #91 #67         | #91 #67                           |
   | 3      | #103 #109 #117 #140 #65 | #65                               |
+
+- roles
+  I have decided it will be best if each of the members has one role which oversees the project, that way, instead of if i were to do all of the tasks, it will be easier to keep everything in control, and have everyone be in control of the project instead of just one person. It will also be easier to spot mistakes and give proper feedback to eachother
+
+  Here are the different roles that i have came up with thus far:
+  - scrum master (controls the majority of GitHub and oversees the projectboard)
+  - logboek master (controls if everyone has a fair ammount of tasks, and if the tasks dont look bigger than 4 hours of work)
+
+    PLEASE let me know if i can add any other tasks. Like maybe something during the reviews or standups
+
+
+- weekly plan
+
+  | Day        | Tasks                   | Completed tasks                   |
+  |------------|-------------------------|-----------------------------------|
+  | Monday     | Standup(1)              | #23 #15 #66                       |
+  | Tuesday    |                         | #91 #67                           |
+  | Wednesday  |                         | #65                               |
+  | Thursday   | Standup(2)              | #23 #15 #66                       |
+  | Friday     | Weekly review           | #91 #67                           |
+  | Weekend    | working on tasks that have not been finished                   | #65                               |
     
 
 
