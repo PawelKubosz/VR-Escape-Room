@@ -8,6 +8,8 @@ This document will serve as a template for an idea i had regarding how we can go
   - standup
   - review
   - actual weekly plan
+  - noting down the work done
+  - roles
 
 
 - workflow
@@ -34,6 +36,32 @@ This document will serve as a template for an idea i had regarding how we can go
 
     <img width="646" alt="image" src="https://github.com/PawelKubosz/VR-Escape-Room/assets/114138468/c3c53a0c-b42d-41ac-b98e-d6b000a53f37">
 
+
+- standup
+  
+  standup described in detail:
+
+  We will be having a total of 2 stand ups each week. I do not see the point in having daily standups as it is possible and very likely for tasks to be worked on over the period of a few days, so checking upon each persons progress on their tasks would not be needed.
+
+
+- review
+
+  review described in detail:
+
+  Each week there will be one review, which will take place on the last day that we have to be in school. That could be on Thursday or Friday. We will hold a bigger sprint review at the end of each sprint
+
+  <img width="223" alt="image" src="https://github.com/PawelKubosz/VR-Escape-Room/assets/114138468/b19e8b89-ec29-442f-b127-90534ef2ab11">
+
+
+- tasks documentation
+
+  Every single team member is going to have a markdown file where, every single week, they will update it with their own tasks. It will look the same as the ones we had for the KPN project, except in my opinion, it is not needed for us to also note down every single pull we have. We trust each other, so we can just put a cross behind each of the tasks that we have completed. We will use this template for each week:
+
+| Week N | Tasks                   | Completed tasks                   |
+|--------|-------------------------|-----------------------------------|
+| 1      | #23 #15 #66             | #23 #15 #66                       |
+| 2      | #93 #98 #91 #67         | #91 #67                           |
+| 3      | #103 #109 #117 #140 #65 | #65                               |
     
 
 
