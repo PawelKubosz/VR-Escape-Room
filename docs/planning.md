@@ -8,7 +8,7 @@ This document will serve as a template for an idea i had regarding how we can go
   - standup
   - review
   - actual weekly plan
-  - noting down the work done
+  - log boek
   - roles
 
 
@@ -53,15 +53,15 @@ This document will serve as a template for an idea i had regarding how we can go
   <img width="223" alt="image" src="https://github.com/PawelKubosz/VR-Escape-Room/assets/114138468/b19e8b89-ec29-442f-b127-90534ef2ab11">
 
 
-- tasks documentation
+- Log boek
 
   Every single team member is going to have a markdown file where, every single week, they will update it with their own tasks. It will look the same as the ones we had for the KPN project, except in my opinion, it is not needed for us to also note down every single pull we have. We trust each other, so we can just put a cross behind each of the tasks that we have completed. We will use this template for each week:
-
-| Week N | Tasks                   | Completed tasks                   |
-|--------|-------------------------|-----------------------------------|
-| 1      | #23 #15 #66             | #23 #15 #66                       |
-| 2      | #93 #98 #91 #67         | #91 #67                           |
-| 3      | #103 #109 #117 #140 #65 | #65                               |
+  
+  | Week N | Tasks                   | Completed tasks                   |
+  |--------|-------------------------|-----------------------------------|
+  | 1      | #23 #15 #66             | #23 #15 #66                       |
+  | 2      | #93 #98 #91 #67         | #91 #67                           |
+  | 3      | #103 #109 #117 #140 #65 | #65                               |
     
 
 
