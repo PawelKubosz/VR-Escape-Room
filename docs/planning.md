@@ -39,7 +39,7 @@ This document will serve as a template for an idea i had regarding how we can go
 
 - standup
   
-  standup described in detail:
+  standup described in detail: https://github.com/PawelKubosz/VR-Escape-Room/blob/main/docs/standup.md
 
   We will be having a total of 2 stand ups each week. I do not see the point in having daily standups as it is possible and very likely for tasks to be worked on over the period of a few days, so checking upon each persons progress on their tasks would not be needed.
 
