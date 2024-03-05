@@ -80,7 +80,7 @@ This document will serve as a template for an idea i had regarding how we can go
   | Day        | Tasks                   | 
   |------------|-------------------------|
   | Monday     | Standup(1)              | 
-  | Tuesday    |                         | 
+  | Tuesday    | Review With opdrachtgever                        | 
   | Wednesday  |                         | 
   | Thursday   | Standup(2)              | 
   | Friday     | Weekly review           | 
